@@ -1,0 +1,12 @@
+YESPSAYT - GitHub ile APK build
+
+1. GitHub-da yeni repository yarat.
+2. Bu qovlugun BUTUN fayllarini repository-nin kokune yukle. (.github qovlugu daxil)
+3. GitHub-da Actions bolmesine gir.
+4. "Build YESPSAYT APK" workflow-nu sec.
+5. Lazim olsa "Run workflow" -> "Run workflow" bas.
+6. Build yasil olduqdan sonra run-a gir.
+7. Sehifenin asagisinda Artifacts -> YESPSAYT-Android-APK yukle.
+8. ZIP-in icinde YESPSAYT-debug.apk olacaq.
+
+Qeyd: GitHub-a yukledikde build avtomatik de baslaya biler.
